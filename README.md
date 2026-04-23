@@ -1,4 +1,4 @@
-# MLOps Pipeline
+# MLOps Pipeline for MLOps Practical
 
 This project demonstrates a MLOps lifecycle.
 
